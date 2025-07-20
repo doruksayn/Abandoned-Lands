@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Spike
+  - FallDetector
+  - Enemy
+  - Obstacle
+  - Collectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1310263739
+    locked: 0
+  - name: Background 1
+    uniqueID: 1125552893
+    locked: 0
+  - name: Middle
+    uniqueID: 1462525669
+    locked: 0
+  - name: Extra
+    uniqueID: 2257540571
+    locked: 0
+  - name: Scenery
+    uniqueID: 880234917
+    locked: 0
+  - name: Trees
+    uniqueID: 766391351
+    locked: 0
+  - name: Props
+    uniqueID: 1871198729
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4281850131
+    locked: 0
+  - name: Light
+    uniqueID: 3886445711
+    locked: 0
