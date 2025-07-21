@@ -25,6 +25,13 @@ Follow the below instructions to get started with Red Runner source code:
 <li><a href="https://unity3d.com" rel="nofollow">Unity Game Engine</a></li>
 <li>Basic Knowledge about Unity and C#</li>
 </ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Download</h2><a id="user-content-download" class="anchor" aria-label="Permalink: Download" href="#download"></a></div>
+You can get access to Medieval Village source code by using one of the following ways:
+<ul dir="auto">
+<li><a href="https://github.com/doruksayn/2D-Platformer-Game/archive/refs/heads/main.zip">✨ Download Source Code</a></li>
+<li>Clone the repository locally:</li>
+</ul>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/doruksayn/2D-Platformer-Game.git</pre><div class="zeroclipboard-container"><clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/BayatGames/RedRunner.git" tabindex="0" role="button"></clipboard-copy></div></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Screenshots</h2><a id="user-content-screenshots" class="anchor" aria-label="Permalink: Screenshots" href="#screenshots"></a></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Credits</h2><a id="user-content-credits" class="anchor" aria-label="Permalink: Credits" href="#credits"></a></div>
 <ul dir="auto">
