@@ -31,9 +31,8 @@ You can get access to Medieval Village source code by using one of the following
 <li><a href="https://github.com/doruksayn/2D-Platformer-Game/archive/refs/heads/main.zip">✨ Download Source Code</a></li>
 <li>Clone the repository locally:</li>
 </ul>
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/doruksayn/2D-Platformer-Game.git</pre><div class="zeroclipboard-container"><clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/BayatGames/RedRunner.git" tabindex="0" role="button"></clipboard-copy></div></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/doruksayn/2D-Platformer-Game.git</pre><div class="zeroclipboard-container"><clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/doruksayn/2D-Platformer-Game.git" tabindex="0" role="button"></clipboard-copy></div></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Screenshots</h2><a id="user-content-screenshots" class="anchor" aria-label="Permalink: Screenshots" href="#screenshots"></a></div>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/N2rWXqpv/2-D-Platformer-Animation-Gif.gif" alt="2-D-Platformer-Animation-Gif" border="0"></a>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Credits</h2><a id="user-content-credits" class="anchor" aria-label="Permalink: Credits" href="#credits"></a></div>
 <ul dir="auto">
 <li>Game Engine: <a href="https://unity3d.com/" rel="nofollow">Unity</a></li>
