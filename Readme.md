@@ -13,7 +13,7 @@ Abondoned Lands
 <a href="[https://ibb.co/chbpfwV7](https://camo.githubusercontent.com/f863a92b6828ab18dc31f84c23069cca49934ba36c0267736ccc18a4bf2c3515/68747470733a2f2f692e6962622e636f2f5254684d724e64562f4f70656e696e672d5363656e652e706e67)"><a href="https://ibb.co/chbpfwV7"><img src="https://i.ibb.co/RThMrNdV/Opening-Scene.png" alt="Opening-Scene" style="max-width=100%;"></a></a>
 <h2>Getting Started</h2>
 <b></b>
-Follow the below instructions to get started with Red Runner source code:
+Follow the below instructions to get started with Abondoned Lands source code:
 <ol dir="auto">
 <li><a href="#requirements">Make sure you have all Requirements</a></li>
 <li><a href="#download">Download Source Code</a></li>
@@ -26,7 +26,7 @@ Follow the below instructions to get started with Red Runner source code:
 <li>Basic Knowledge about Unity and C#</li>
 </ul>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Download</h2><a id="user-content-download" class="anchor" aria-label="Permalink: Download" href="#download"></a></div>
-You can get access to Medieval Village source code by using one of the following ways:
+You can get access to Abondoned Lands source code by using one of the following ways:
 <ul dir="auto">
 <li><a href="https://github.com/doruksayn/2D-Platformer-Game/archive/refs/heads/main.zip">✨ Download Source Code</a></li>
 <li>Clone the repository locally:</li>
