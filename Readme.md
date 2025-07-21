@@ -1,6 +1,6 @@
-Medieval Village
+Abondoned Lands
 ----------------
-<p>Medieval Village, 2D Platformer Game.<p>
+<p>Abondoned Lands is a Medieval Concept 2D Platformer Game.<p>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
