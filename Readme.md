@@ -48,4 +48,5 @@ You can get access to Abandoned Lands source code by using one of the following 
 </ul>
 <br>
 <p dir="auto">Made with ❤️ by <a href="https://github.com/doruksayn">doruksayn</a></p>
+<p dir="auto">You can support by following me, thank you!!</p>
 
