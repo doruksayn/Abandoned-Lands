@@ -10,7 +10,7 @@ Abandoned Lands
 </tr>
 </thead>
 </table></markdown-accessiblity-table>
-<a href="https://ibb.co/0jjYfFbz"><img src="https://i.ibb.co/VWWMvQ4k/Opening-Sceen.png" alt="Opening-Sceen" border="0"></a>
+<a href="https://ibb.co/84Mschj2"><img src="https://i.ibb.co/Kz6hw197/Opening-Scene.png" alt="Opening-Scene" border="0"></a>
 <h2>Getting Started</h2>
 <b></b>
 Follow the below instructions to get started with Abandoned Lands source code:
