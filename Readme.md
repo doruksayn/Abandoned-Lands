@@ -10,7 +10,7 @@ Abandoned Lands
 </tr>
 </thead>
 </table></markdown-accessiblity-table>
-<a href="https://ibb.co/84Mschj2"><img src="https://i.ibb.co/Kz6hw197/Opening-Scene.png" alt="Opening-Scene" border="0"></a>
+![Opening Scene](Images/Opening-Scene.png)
 <h2>Getting Started</h2>
 <b></b>
 Follow the below instructions to get started with Abandoned Lands source code:
@@ -49,6 +49,7 @@ You can get access to Abandoned Lands source code by using one of the following 
 <br>
 <p dir="auto">Made with ❤️ by <a href="https://github.com/doruksayn">doruksayn</a></p>
 <p dir="auto">You can support by following me, thank you!!</p>
+
 
 
 
